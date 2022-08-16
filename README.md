@@ -1,7 +1,7 @@
 
 <h1 align="left">Denis Bibishkin (@bibishkind) 👋</h1>
 
-- 💻 Tech Stack: **Go, C++, Python, PostgreSQL, Docker, Linux**
+- 💻 Tech Stack: **Go, C++, Python, PostgreSQL, Docker, Kubernetes Linux**
 - 🔥 Interested in **Backend**
 - 🚀 <a href="https://t.me/bibishkind"  target="blank">Telegram</a> | <a href="https://www.linkedin.com/in/bibishkin/"  target="blank">Linkedin</a>
 
