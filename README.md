@@ -1,8 +1,7 @@
 
 <h1 align="left">Denis Bibishkin (@bibishkind) 👋</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?width=435&lines=Computer+science+student;Currently+learning+Kubernetes)](https://git.io/typing-svg)
 - 💻 Tech Stack: **Go, C++, Python, PostgreSQL, Docker, Linux**
 - 🔥 Interested in **Backend**
 - 🚀 <a href="https://t.me/bibishkind"  target="blank">Telegram</a> | <a href="https://www.linkedin.com/in/bibishkin/"  target="blank">Linkedin</a>
